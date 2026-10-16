@@ -1,0 +1,5 @@
+# app-ads.txt - IAB Tech Lab spec. AdMob reads this from the root of the
+# developer website given in each Play listing (https://shineshiao.github.io).
+# Every Shineshiao app is in one AdMob publisher account, so this one line
+# covers all of them, including any app added later.
+google.com, pub-9071509655340557, DIRECT, f08c47fec0942fa0
